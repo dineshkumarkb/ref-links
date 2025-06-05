@@ -3,27 +3,38 @@
 Lists of good content in software development, organized by topic
 
 
-Agile Software Development
-The LAFABLE Framework (a parody)
-Agile is Dead (Dave Thomas)
-Scrum or Kanban: Yes (Shift314)
-Code Reviews
-Best Practices for Peer Code Review (SmartBear)
-We are Ruthless on code reviews (Workivia)
-Code Style
-Better Boolean Variable Names
-7 Popular Unit Test Naming Conventions
-Google Style Guides (Google)
-Data Engineering
-The World Beyond Batch: Streaming 101 (O'Reilly)
-Streams and Tables in Apache Kafka (Confluent)
-Designing Data Intensive Applications (Martin Kleppmann)
-Is Kafka a Database? (Martin Kleppmann)
-Dependency Injection
-When to use a DI Container (Mark Seeman)
-The Register Resolve Release Pattern (Mark Seeman)
-Developer Experience
-Platform Prerequisites (Martin Fowler)
+## Agile Software Development
+
+The LAFABLE Framework (a parody) — https://www.lafable.com/
+Agile is Dead (Dave Thomas) — https://www.youtube.com/watch?v=a-BOSpxYJ9M
+Scrum or Kanban: Yes (Shift314) — https://evolve2b.com/scrum-or-kanban-yes/
+
+## Code Reviews 
+
+Best Practices for Peer Code Review (SmartBear) — https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
+We are Ruthless on code reviews (Workivia) — 
+
+## Code Style
+
+Better Boolean Variable Names — https://www.samanthaming.com/tidbits/34-better-boolean-variable-names/
+7 Popular Unit Test Naming Conventions — https://dzone.com/articles/7-popular-unit-test-naming
+Google Style Guides (Google) — https://google.github.io/styleguide/pyguide.html
+
+## Data Engineering
+
+The World Beyond Batch: Streaming 101 (O'Reilly) — https://www.oreilly.com/radar/the-world-beyond-batch-streaming-101/
+Streams and Tables in Apache Kafka (Confluent) — https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming/
+Designing Data Intensive Applications (Martin Kleppmann) — https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+Is Kafka a Database? (Martin Kleppmann) — https://www.confluent.io/kafka-summit-lon19/is-kafka-a-database/
+
+## Dependency Injection
+
+When to use a DI Container (Mark Seeman) — https://blog.ploeh.dk/2012/11/06/WhentouseaDIContainer/
+The Register Resolve Release Pattern (Mark Seeman) — https://blog.ploeh.dk/2010/09/29/TheRegisterResolveReleasepattern/
+
+## Developer Experience
+
+Platform Prerequisites (Martin Fowler) — https://martinfowler.com/articles/platform-prerequisites.html
 Documentation
 Diátaxis
 Architecture Decision Records
@@ -68,12 +79,16 @@ REST API Design
 Web API Design: The Missing Link (Apigee)
 Web API design (Microsoft)
 The Secret to Amazon's Success: Internal APIs
-Security
+## Security
+
 OWASP Cheat Sheet Series
-Site Reliability Engineering
+
+## Site Reliability Engineering
+
 Making the most of an SRE service takeover (GCP)
-Software Architecture
-Software Architecture with Stefan Tilkov (CaSE podcast)
+## Software Architecture
+
+Software Architecture with Stefan Tilkov (CaSE podcast) — https://www.case-podcast.org/4-software-architecture
 Why Software Architects Fail and What To Do About It (Craft ft. Stefan Tilkov)
 Software Architecture Anti-patterns (Sourcemaking)
 Choose Boring Technology (Dan McKinley)
